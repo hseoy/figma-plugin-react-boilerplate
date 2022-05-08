@@ -10,19 +10,19 @@ react boilerplate for react plugin
 $ npx degit https://github.com/hseoy/figma-plugin-react-boilerplate <project name>
 ```
 
-2. install the dependencies.
+2. Install the dependencies.
 
 ```bash
 $ yarn install
 ```
 
-3. to rebuild it when the files are changed, run `yarn watch`
+3. To rebuild it when the files are changed, run `yarn watch`
 
 ```bash
 $ yarn watch
 ```
 
-4. the plugin is ready to be added to Figma for development.
+4. The plugin is ready to be added to Figma for development.
 
 ### Figma for plugin development
 
