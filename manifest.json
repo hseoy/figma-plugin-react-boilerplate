@@ -1,0 +1,8 @@
+{
+  "name": "sample plugin",
+  "id": "[FIGMA PLUGIN ID]",
+  "api": "1.0.0",
+  "main": "dist/plugin.js",
+  "editorType": ["figma", "figjam"],
+  "ui": "dist/ui.html"
+}
